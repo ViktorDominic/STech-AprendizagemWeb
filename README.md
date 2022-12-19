@@ -1,4 +1,4 @@
 # STech-AprendizagemWeb
 </br>
 Para visitar a página:
-<a href="https://github.com/ViktorDominic/STech-AprendizagemWeb.git">clique aqui</a>
+<a href="file:///C:/Users/182110029/Documents/Web/apLayout/index.html">clique aqui</a>
